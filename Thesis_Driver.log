@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.10)  20 OCT 2015 15:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.10)  14 FEB 2016 18:02
 entering extended mode
-**C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/The
-sis_Driver.tex
+**C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Thesis_Driv
+er.tex
 
-(C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/Thes
-is_Driver.tex
+(C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Thesis_Drive
+r.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -16,9 +16,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\ubcd
-iss.cls
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\ubcdiss.cls
 Document Class: ubcdiss 2008/04/06
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
@@ -512,8 +510,8 @@ File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \c@bookmark@seq@number=\count132
 \Hy@SectionHShift=\skip91
 )
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\macr
-os.tex) ("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\macros.tex)
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen149
 \WF@size=\dimen150
 \c@WF@wrappedlines=\count133
@@ -535,26 +533,24 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.aux
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\abst
-ract.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\pref
-ace.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\ack.
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.aux
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\abstract.aux
+)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\preface.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\ack.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap1_Intro.
 aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-1_Intro.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-2_Forward.aux
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap2_Forwar
+d.aux
 
 LaTeX Warning: Label `b_integral' multiply defined.
 
 )
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-3_Inverse.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-4_Mixed_Lpnorm_Regularization.aux
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap3_Invers
+e.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap4_Mixed_
+Lpnorm_Regularization.aux
 
 LaTeX Warning: Label `eq:lpnorm' multiply defined.
 
@@ -562,8 +558,8 @@ LaTeX Warning: Label `eq:lpnorm' multiply defined.
 LaTeX Warning: Label `eq:eta' multiply defined.
 
 )
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-5_Cooperative_Mag_Inversion_CMI.aux
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap5_Cooper
+ative_Mag_Inversion_CMI.aux
 
 LaTeX Warning: Label `fig:3D_Inv_l2l2_pred_kEff' multiply defined.
 
@@ -571,10 +567,10 @@ LaTeX Warning: Label `fig:3D_Inv_l2l2_pred_kEff' multiply defined.
 LaTeX Warning: Label `fig:3D_Inv_l2l2_pred_AMI' multiply defined.
 
 )
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-6_Case_Study.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-7_Conclusion.aux))
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap6_Case_S
+tudy.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap7_Conclu
+sion.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 336.
 LaTeX Font Info:    ... okay on input line 336.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 336.
@@ -628,10 +624,10 @@ LaTeX Info: Redefining \ref on input line 336.
 LaTeX Info: Redefining \pageref on input line 336.
 LaTeX Info: Redefining \nameref on input line 336.
 
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.out)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.out)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.out)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.out)
 \@outlinefile=\write5
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 345.
@@ -677,40 +673,39 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\abst
-ract.tex
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\abstract.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
- [2
+[2
 
 
 ]) [3]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\pref
-ace.tex) [4
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\preface.tex)
+[4
 
 
 
 
 ]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.toc [5
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.toc [5
 
 
 
 ] [6])
 \tf@toc=\write6
  [7]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.lot)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.lot)
 \tf@lot=\write7
  [8
 
 
 ]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.lof
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.lof
 Overfull \hbox (9.51027pt too wide) in paragraph at lines 9--9
  [][] []$[][]$ \OT1/ptm/m/n/10.95 Syn-thetic sus-cep-ti-bil-ity model con-sist-
 ing of a folded anomaly 
@@ -764,14 +759,14 @@ r stan-
 [18] [19])
 \tf@lof=\write8
  [20]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\ack.
-tex) [21
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\ack.tex)
+[21
 
 
 
 ]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-1_Intro.tex
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap1_Intro.
+tex
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
@@ -790,8 +785,8 @@ Package pdftex.def Info: ./Figures/Earth_Field.png used on input line 72.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] [4 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thes
-is/Figures/Earth_Field.png (PNG copy)>]
+[3] [4 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figur
+es/Earth_Field.png (PNG copy)>]
 <./Figures/Magnetization_EDT.png, id=578, 485.6544pt x 394.5942pt>
 File: ./Figures/Magnetization_EDT.png Graphic file (type png)
 
@@ -803,18 +798,18 @@ Package pdftex.def Info: ./Figures/Magnetization_EDT.png used on input line 113
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5] [6 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thes
-is/Figures/Magnetization_EDT.png>] [7] [8]) [9]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-2_Forward.tex
+[5] [6 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figur
+es/Magnetization_EDT.png>] [7] [8]) [9]
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap2_Forwar
+d.tex
 Chapter 2.
 [10
 
 
 
 ] [11] [12] [13] [14]) [15]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-3_Inverse.tex
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap3_Invers
+e.tex
 Chapter 3.
 [16
 
@@ -860,11 +855,11 @@ Package pdftex.def Info: ./Figures/Convergence_curve.png used on input line 386
 
 LaTeX Warning: Text page 27 contains only floats.
 
-[27 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/3D_Model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/R
-esearchDomFournier/Thesis/Figures/3D_Data_INDUCED.pdf>] [28 <C:/Users/dominique
-f.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/Figures/Convergence_cur
-ve.png (PNG copy)>] [29]
+[27 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+3D_Model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/
+MScThesis/Figures/3D_Data_INDUCED.pdf>] [28 <C:/Users/dominiquef.MIRAGEOSCIENCE
+/Documents/GIT/Papers/MScThesis/Figures/Convergence_curve.png (PNG copy)>]
+[29]
 <./Figures/3D_Inv_l2l2_model_INDUCED.pdf, id=920, 455.30101pt x 654.40488pt>
 File: ./Figures/3D_Inv_l2l2_model_INDUCED.pdf Graphic file (type pdf)
 
@@ -880,9 +875,9 @@ File: ./Figures/3D_Inv_l2l2_pred_INDUCED.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Figures/3D_Inv_l2l2_pred_INDUCED.pdf used on input l
 ine 413.
 (pdftex.def)             Requested size: 162.72406pt x 340.2925pt.
- [30 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/3D_Inv_l2l2_model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dro
-pbox/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l2l2_pred_INDUCED.pdf>]
+ [30 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/3D_Inv_l2l2_model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/G
+IT/Papers/MScThesis/Figures/3D_Inv_l2l2_pred_INDUCED.pdf>]
 <./Figures/3D_Model_REMANENT.pdf, id=946, 455.30101pt x 654.40488pt>
 File: ./Figures/3D_Model_REMANENT.pdf Graphic file (type pdf)
 
@@ -931,19 +926,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: Text page 32 contains only floats.
 
-[32 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/3D_Model_REMANENT.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/
-ResearchDomFournier/Thesis/Figures/3D_Data_REMANENT.pdf>]
+[32 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+3D_Model_REMANENT.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers
+/MScThesis/Figures/3D_Data_REMANENT.pdf>]
 
 LaTeX Warning: Text page 33 contains only floats.
 
-[33 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/3D_Inv_l2l2_model_REMANENT.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dro
-pbox/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l2l2_pred_REMANENT.pdf>]
+[33 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+3D_Inv_l2l2_model_REMANENT.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/G
+IT/Papers/MScThesis/Figures/3D_Inv_l2l2_pred_REMANENT.pdf>]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 468.
-
-[34] [35] [36]
+ [34] [35] [36]
 <./Figures/3D_Inv_l2l2_model_TMVI.pdf, id=1007, 460.96214pt x 651.51407pt>
 File: ./Figures/3D_Inv_l2l2_model_TMVI.pdf Graphic file (type pdf)
 
@@ -959,10 +953,9 @@ File: ./Figures/3D_Inv_l2l2_pred_TMVI.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Figures/3D_Inv_l2l2_pred_TMVI.pdf used on input line
  570.
 (pdftex.def)             Requested size: 162.72406pt x 325.51079pt.
- [37 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/3D_Inv_l2l2_model_TMVI.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbo
-x/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l2l2_pred_TMVI.pdf>] [38] [39] 
-[40] [41]
+ [37 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/3D_Inv_l2l2_model_TMVI.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/
+Papers/MScThesis/Figures/3D_Inv_l2l2_pred_TMVI.pdf>] [38] [39] [40] [41]
 <./Figures/3D_Inv_l2l2_model_kEff.pdf, id=1060, 460.96214pt x 651.51407pt>
 File: ./Figures/3D_Inv_l2l2_model_kEff.pdf Graphic file (type pdf)
 
@@ -978,9 +971,9 @@ File: ./Figures/3D_Inv_l2l2_pred_kEff.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Figures/3D_Inv_l2l2_pred_kEff.pdf used on input line
  731.
 (pdftex.def)             Requested size: 162.72406pt x 325.51079pt.
- [42 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/3D_Inv_l2l2_model_kEff.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbo
-x/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l2l2_pred_kEff.pdf>] [43]
+ [42 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/3D_Inv_l2l2_model_kEff.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/
+Papers/MScThesis/Figures/3D_Inv_l2l2_pred_kEff.pdf>] [43]
 Overfull \hbox (0.14267pt too wide) in paragraph at lines 770--773
 \OT1/ptm/m/n/10.95 As demon-strated by [][]Damp-ney[] ([]1969[]) and later re-v
 ised by [][]Li and Old-en-burg[] ([]2010[]),
@@ -1011,13 +1004,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: Text page 45 contains only floats.
 
-[45 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/ES_Li_True.pdf>]
+[45 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+ES_Li_True.pdf>]
 
 LaTeX Warning: Text page 46 contains only floats.
 
-[46 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/ES_Li_Full_Space.pdf>]
+[46 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+ES_Li_Full_Space.pdf>]
 <./Figures/ES_Li_CornerOut.pdf, id=1131, 614.295pt x 794.97pt>
 File: ./Figures/ES_Li_CornerOut.pdf Graphic file (type pdf)
 
@@ -1036,10 +1029,10 @@ LaTeX Warning: Text page 48 contains only floats.
 Overfull \vbox (0.83463pt too high) has occurred while \output is active []
 
 
-[48 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/ES_Li_CornerOut.pdf>]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-4_Mixed_Lpnorm_Regularization.tex
+[48 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+ES_Li_CornerOut.pdf>]
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap4_Mixed_
+Lpnorm_Regularization.tex
 Chapter 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1099,9 +1092,9 @@ LaTeX Warning: Text page 52 contains only floats.
 Overfull \vbox (3.75296pt too high) has occurred while \output is active []
 
 
-[52 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/IRLS_toy_l0l1l2.pdf>] [53 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/U
-BC/ResearchDomFournier/Thesis/Figures/IRLS_toy_Result.pdf>] [54] [55]
+[52 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+IRLS_toy_l0l1l2.pdf>] [53 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Pap
+ers/MScThesis/Figures/IRLS_toy_Result.pdf>] [54] [55]
 <./Figures/Lp_r_dphidm.pdf, id=1250, 614.295pt x 794.97pt>
 File: ./Figures/Lp_r_dphidm.pdf Graphic file (type pdf)
 
@@ -1116,8 +1109,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: Text page 57 contains only floats.
 
-[57 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/Lp_r_dphidm.pdf>] [58] [59]
+[57 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+Lp_r_dphidm.pdf>] [58] [59]
 <./Figures/1D_Kernel_data.pdf, id=1319, 614.295pt x 614.295pt>
 File: ./Figures/1D_Kernel_data.pdf Graphic file (type pdf)
 
@@ -1128,8 +1121,8 @@ Package pdftex.def Info: ./Figures/1D_Kernel_data.pdf used on input line 296.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[60] [61 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/1D_Kernel_data.pdf>] [62]
+[60] [61 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/1D_Kernel_data.pdf>] [62]
 <./Figures/1D_IRLS_algo1.pdf, id=1357, 614.295pt x 614.295pt>
 File: ./Figures/1D_IRLS_algo1.pdf Graphic file (type pdf)
 
@@ -1141,8 +1134,8 @@ Overfull \hbox (8.57983pt too wide) in paragraph at lines 355--356
 [][] 
  []
 
-[63] [64 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/1D_IRLS_algo1.pdf>]
+[63] [64 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/1D_IRLS_algo1.pdf>]
 <./Figures/1D_IRLS_algo2.pdf, id=1381, 614.295pt x 614.295pt>
 File: ./Figures/1D_IRLS_algo2.pdf Graphic file (type pdf)
 
@@ -1174,8 +1167,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 459.
 
-[66] [67 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/1D_IRLS_algo2.pdf>] [68]
+[66] [67 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/1D_IRLS_algo2.pdf>] [68]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1185,8 +1178,8 @@ File: ./Figures/1D_IRLS_algo3.pdf Graphic file (type pdf)
 <use ./Figures/1D_IRLS_algo3.pdf>
 Package pdftex.def Info: ./Figures/1D_IRLS_algo3.pdf used on input line 523.
 (pdftex.def)             Requested size: 350.15178pt x 350.15178pt.
- [70] [71 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/T
-hesis/Figures/1D_IRLS_algo3.pdf>]
+ [70] [71 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fi
+gures/1D_IRLS_algo3.pdf>]
 <./Figures/1D_Model_curve.pdf, id=1465, 614.295pt x 614.295pt>
 File: ./Figures/1D_Model_curve.pdf Graphic file (type pdf)
 
@@ -1198,8 +1191,8 @@ Overfull \hbox (8.57983pt too wide) in paragraph at lines 556--558
 [][] 
  []
 
-[72] [73 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/1D_Model_curve.pdf>]
+[72] [73 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/1D_Model_curve.pdf>]
 <./Figures/1D_Eta_test.pdf, id=1483, 614.295pt x 614.295pt>
 File: ./Figures/1D_Eta_test.pdf Graphic file (type pdf)
 
@@ -1211,8 +1204,8 @@ Overfull \hbox (8.57983pt too wide) in paragraph at lines 620--621
  [][] 
  []
 
-[74] [75 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/1D_Eta_test.pdf>]
+[74] [75 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/1D_Eta_test.pdf>]
 <./Figures/IRLS_toy_Phis_Phix.pdf, id=1504, 505.89pt x 650.43pt>
 File: ./Figures/IRLS_toy_Phis_Phix.pdf Graphic file (type pdf)
 
@@ -1224,8 +1217,8 @@ Package pdftex.def Info: ./Figures/IRLS_toy_Phis_Phix.pdf used on input line 66
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[76] [77 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/IRLS_toy_Phis_Phix.pdf>]
+[76] [77 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/IRLS_toy_Phis_Phix.pdf>]
 <./Figures/Lp_g_scaled.pdf, id=1525, 312.92911pt x 625.97867pt>
 File: ./Figures/Lp_g_scaled.pdf Graphic file (type pdf)
 
@@ -1237,8 +1230,8 @@ Overfull \hbox (3.06789pt too wide) in paragraph at lines 686--687
 [][] 
  []
 
-[78 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/Lp_g_scaled.pdf>]
+[78 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+Lp_g_scaled.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 723.
@@ -1266,8 +1259,8 @@ File: ./Figures/1D_Wr_in_vs_out.pdf Graphic file (type pdf)
 <use ./Figures/1D_Wr_in_vs_out.pdf>
 Package pdftex.def Info: ./Figures/1D_Wr_in_vs_out.pdf used on input line 771.
 (pdftex.def)             Requested size: 172.11153pt x 344.28934pt.
- [81 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/1D_Wr_in_vs_out.pdf>]
+ [81 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/1D_Wr_in_vs_out.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 780.
@@ -1297,10 +1290,10 @@ File: ./Figures/1D_Results.pdf Graphic file (type pdf)
 <use ./Figures/1D_Results.pdf>
 Package pdftex.def Info: ./Figures/1D_Results.pdf used on input line 801.
 (pdftex.def)             Requested size: 360.04396pt x 368.57983pt.
- [82] [83 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/T
-hesis/Figures/1D_Results_ALL.pdf>] [84 <C:/Users/dominiquef.MIRAGEOSCIENCE/Drop
-box/UBC/ResearchDomFournier/Thesis/Figures/1D_Results.pdf>] [85]
-<./Figures/1D_Mixed_norm.pdf, id=1622, 312.92911pt x 654.40488pt>
+ [82] [83 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fi
+gures/1D_Results_ALL.pdf>] [84 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GI
+T/Papers/MScThesis/Figures/1D_Results.pdf>]
+[85] <./Figures/1D_Mixed_norm.pdf, id=1622, 312.92911pt x 654.40488pt>
 File: ./Figures/1D_Mixed_norm.pdf Graphic file (type pdf)
 
 <use ./Figures/1D_Mixed_norm.pdf>
@@ -1311,8 +1304,8 @@ Overfull \hbox (6.46423pt too wide) in paragraph at lines 861--862
  [][] 
  []
 
-[86 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/
-Figures/1D_Mixed_norm.pdf>]
+[86 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/
+1D_Mixed_norm.pdf>]
 <./Figures/2D_Model_Kernel_data.pdf, id=1633, 596.10706pt x 686.565pt>
 File: ./Figures/2D_Model_Kernel_data.pdf Graphic file (type pdf)
 
@@ -1320,9 +1313,9 @@ File: ./Figures/2D_Model_Kernel_data.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Figures/2D_Model_Kernel_data.pdf used on input line 
 877.
 (pdftex.def)             Requested size: 357.66699pt x 411.94218pt.
- [87] [88 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/T
-hesis/Figures/2D_Model_Kernel_data.pdf>] <./Figures/2D_Model_Grad_Test.pdf, id=
-1660, 312.92911pt x 654.40488pt>
+ [87] [88 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fi
+gures/2D_Model_Kernel_data.pdf>]
+<./Figures/2D_Model_Grad_Test.pdf, id=1660, 312.92911pt x 654.40488pt>
 File: ./Figures/2D_Model_Grad_Test.pdf Graphic file (type pdf)
 
 <use ./Figures/2D_Model_Grad_Test.pdf>
@@ -1359,11 +1352,11 @@ Overfull \hbox (8.57983pt too wide) in paragraph at lines 937--939
  [][] 
  []
 
-[89] [90 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/2D_Model_Grad_Test.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbo
-x/UBC/ResearchDomFournier/Thesis/Figures/2D_Mix_lp_norms.pdf>] [91 <C:/Users/do
-miniquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/Figures/2D_Mix_n
-orm_result.pdf>] [92]
+[89] [90 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/2D_Model_Grad_Test.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/
+Papers/MScThesis/Figures/2D_Mix_lp_norms.pdf>] [91 <C:/Users/dominiquef.MIRAGEO
+SCIENCE/Documents/GIT/Papers/MScThesis/Figures/2D_Mix_norm_result.pdf>]
+[92]
 <./Figures/3D_Inv_l0l2_model_INDUCED.pdf, id=1697, 460.96214pt x 651.51407pt>
 File: ./Figures/3D_Inv_l0l2_model_INDUCED.pdf Graphic file (type pdf)
 
@@ -1379,9 +1372,9 @@ File: ./Figures/3D_Inv_l0l2_pred_INDUCED.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Figures/3D_Inv_l0l2_pred_INDUCED.pdf used on input l
 ine 966.
 (pdftex.def)             Requested size: 162.72406pt x 340.2925pt.
- [93 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/3D_Inv_l0l2_model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dro
-pbox/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l0l2_pred_INDUCED.pdf>]
+ [93 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/3D_Inv_l0l2_model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/G
+IT/Papers/MScThesis/Figures/3D_Inv_l0l2_pred_INDUCED.pdf>]
 <./Figures/3D_Inv_l0l0_model_INDUCED.pdf, id=1711, 460.96214pt x 651.51407pt>
 File: ./Figures/3D_Inv_l0l0_model_INDUCED.pdf Graphic file (type pdf)
 
@@ -1397,10 +1390,9 @@ File: ./Figures/3D_Inv_l0l0_pred_INDUCED.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Figures/3D_Inv_l0l0_pred_INDUCED.pdf used on input l
 ine 980.
 (pdftex.def)             Requested size: 162.72406pt x 340.2925pt.
- [94 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/3D_Inv_l0l0_model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dro
-pbox/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l0l0_pred_INDUCED.pdf>] [95]
-
+ [94 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/3D_Inv_l0l0_model_INDUCED.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/G
+IT/Papers/MScThesis/Figures/3D_Inv_l0l0_pred_INDUCED.pdf>] [95]
 <./Figures/TKC_Mag_Models.pdf, id=1740, 614.295pt x 686.565pt>
 File: ./Figures/TKC_Mag_Models.pdf Graphic file (type pdf)
 
@@ -1435,13 +1427,12 @@ Overfull \hbox (8.57983pt too wide) in paragraph at lines 1045--1046
  [][] 
  []
 
-[96] [97 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Th
-esis/Figures/TKC_Mag_Models.pdf>]) [98] [99 <C:/Users/dominiquef.MIRAGEOSCIENCE
-/Dropbox/UBC/ResearchDomFournier/Thesis/Figures/TKC_Mix_Norm.pdf>] [100 <C:/Use
-rs/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis/Figures/TKC
-_Obs_vs_Pred.pdf>]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-5_Cooperative_Mag_Inversion_CMI.tex
+[96] [97 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Fig
+ures/TKC_Mag_Models.pdf>]) [98] [99 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documen
+ts/GIT/Papers/MScThesis/Figures/TKC_Mix_Norm.pdf>] [100 <C:/Users/dominiquef.MI
+RAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/TKC_Obs_vs_Pred.pdf>]
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap5_Cooper
+ative_Mag_Inversion_CMI.tex
 Chapter 5.
 [101
 
@@ -1485,9 +1476,9 @@ Package pdftex.def Info: ./Figures/3D_Inv_l2l2_pred_kEff.pdf used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[103 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/Advanced_Mag_Inversion_Algo.png>] [104 <C:/Users/dominiquef.MIRAGEOSCI
-ENCE/Dropbox/UBC/ResearchDomFournier/Thesis/Figures/3D_EQS_CMI.pdf>]
+[103 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/Advanced_Mag_Inversion_Algo.png>] [104 <C:/Users/dominiquef.MIRAGEOSCIENCE/Doc
+uments/GIT/Papers/MScThesis/Figures/3D_EQS_CMI.pdf>]
 
 LaTeX Warning: Text page 105 contains only floats.
 
@@ -1507,9 +1498,9 @@ File: ./Figures/3D_Inv_l2l2_pred_AMI.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Figures/3D_Inv_l2l2_pred_AMI.pdf used on input line 
 96.
 (pdftex.def)             Requested size: 162.72406pt x 340.2925pt.
- [106 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesi
-s/Figures/3D_Inv_l2l2_model_AMI.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbo
-x/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l2l2_pred_AMI.pdf>]
+ [106 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figure
+s/3D_Inv_l2l2_model_AMI.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/
+Papers/MScThesis/Figures/3D_Inv_l2l2_pred_AMI.pdf>]
 <./Figures/3D_Inv_l0l1_CMI_kEff.pdf, id=1839, 460.96214pt x 651.51407pt>
 File: ./Figures/3D_Inv_l0l1_CMI_kEff.pdf Graphic file (type pdf)
 
@@ -1554,14 +1545,14 @@ Package pdftex.def Info: ./Figures/3D_Inv_l0l1_pred_AMI.pdf used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [107] [108 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournie
-r/Thesis/Figures/3D_Inv_l0l1_CMI_kEff.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/
-Dropbox/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l0l1_CMI_pred_kEff.pdf>]
-[109 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/3D_Inv_l0l1_model_AMI.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox
-/UBC/ResearchDomFournier/Thesis/Figures/3D_Inv_l0l1_pred_AMI.pdf>]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-6_Case_Study.tex
+) [107] [108 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis
+/Figures/3D_Inv_l0l1_CMI_kEff.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Document
+s/GIT/Papers/MScThesis/Figures/3D_Inv_l0l1_CMI_pred_kEff.pdf>] [109 <C:/Users/d
+ominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures/3D_Inv_l0l1_mod
+el_AMI.pdf> <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/
+Figures/3D_Inv_l0l1_pred_AMI.pdf>]
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap6_Case_S
+tudy.tex
 Chapter 6.
 [110
 
@@ -1587,8 +1578,8 @@ Overfull \hbox (13.55524pt too wide) in paragraph at lines 46--50
  2.66-2.58 Ga-old ([][]Creaser
  []
 
-[111] [112 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/
-Thesis/Figures/Ekati_Location.png (PNG copy)>] [113]
+[111] [112 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/F
+igures/Ekati_Location.png (PNG copy)>] [113]
 <./Figures/Aeromag_Location.png, id=1951, 639.89063pt x 489.32813pt>
 File: ./Figures/Aeromag_Location.png Graphic file (type png)
 
@@ -1600,8 +1591,8 @@ Overfull \hbox (23.93733pt too wide) in paragraph at lines 93--94
 [][] 
  []
 
-[114 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/Aeromag_Location.png (PNG copy)>]
+[114 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/Aeromag_Location.png (PNG copy)>]
 <./Figures/Ekati_Detrend_Data.png, id=1960, 677.53125pt x 451.6875pt>
 File: ./Figures/Ekati_Detrend_Data.png Graphic file (type png)
 
@@ -1609,9 +1600,9 @@ File: ./Figures/Ekati_Detrend_Data.png Graphic file (type png)
 Package pdftex.def Info: ./Figures/Ekati_Detrend_Data.png used on input line 10
 8.
 (pdftex.def)             Requested size: 356.99428pt x 248.42888pt.
- [115 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesi
-s/Figures/Ekati_Detrend_Data.png (PNG copy)>] <./Figures/Ekati_Tiles.png, id=19
-67, 937.25156pt x 567.62062pt>
+ [115 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figure
+s/Ekati_Detrend_Data.png (PNG copy)>]
+<./Figures/Ekati_Tiles.png, id=1967, 937.25156pt x 567.62062pt>
 File: ./Figures/Ekati_Tiles.png Graphic file (type png)
 
 <use ./Figures/Ekati_Tiles.png>
@@ -1621,8 +1612,8 @@ Package pdftex.def Info: ./Figures/Ekati_Tiles.png used on input line 132.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[116] [117 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/
-Thesis/Figures/Ekati_Tiles.png>]
+[116] [117 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/F
+igures/Ekati_Tiles.png>]
 <./Figures/Ekati_Reg_geology_interp.png, id=1984, 631.158pt x 421.0932pt>
 File: ./Figures/Ekati_Reg_geology_interp.png Graphic file (type png)
 
@@ -1642,13 +1633,13 @@ Package pdftex.def Info: ./Figures/Ekati_reg_Obs_Pred.pdf used on input line 18
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[118 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/Ekati_Reg_geology_interp.png>]
+[118 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/Ekati_Reg_geology_interp.png>]
 
 LaTeX Warning: Text page 119 contains only floats.
 
-[119 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier/Thesis
-/Figures/Ekati_reg_Obs_Pred.pdf>]
+[119 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/Figures
+/Ekati_reg_Obs_Pred.pdf>]
 <./Figures/RegRem_Misery.pdf, id=2004, 455.30101pt x 654.40488pt>
 File: ./Figures/RegRem_Misery.pdf Graphic file (type pdf)
 
@@ -1663,8 +1654,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 237.
 
-[120] [121] [122 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFou
-rnier/Thesis/Figures/RegRem_Misery.pdf>]
+[120] [121] [122 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScTh
+esis/Figures/RegRem_Misery.pdf>]
 <./Figures/Ekati_reg_IND_REM.png, id=2028, 438.8897pt x 553.31718pt>
 File: ./Figures/Ekati_reg_IND_REM.png Graphic file (type png)
 
@@ -1672,8 +1663,8 @@ File: ./Figures/Ekati_reg_IND_REM.png Graphic file (type png)
 Package pdftex.def Info: ./Figures/Ekati_reg_IND_REM.png used on input line 278
 .
 (pdftex.def)             Requested size: 351.11223pt x 442.65434pt.
- [123] [124 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournier
-/Thesis/Figures/Ekati_reg_IND_REM.png>]
+ [123] [124 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis/
+Figures/Ekati_reg_IND_REM.png>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 307.
@@ -1697,20 +1688,20 @@ Overfull \hbox (36.19409pt too wide) in paragraph at lines 336--357
  [][] 
  []
 
-) [125] [126 <C:/Users/dominiquef.MIRAGEOSCIENCE/Dropbox/UBC/ResearchDomFournie
-r/Thesis/Figures/Ekati_Pipe_time.png>]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-7_Conclusion.tex
+) [125] [126 <C:/Users/dominiquef.MIRAGEOSCIENCE/Documents/GIT/Papers/MScThesis
+/Figures/Ekati_Pipe_time.png>]
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap7_Conclu
+sion.tex
 Chapter 7.
 [127
 
 
 
 ] [128]) [129]
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.bbl
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.brf)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.bbl
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.brf)
 \tf@brf=\write9
  [130
 
@@ -1721,28 +1712,26 @@ Missing character: There is no – in font ptmr7t!
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 426.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 426.
 
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Thes
-is_Driver.aux
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\abst
-ract.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\pref
-ace.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\ack.
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Thesis_Drive
+r.aux
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\abstract.aux
+)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\preface.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\ack.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap1_Intro.
 aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-1_Intro.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-2_Forward.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-3_Inverse.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-4_Mixed_Lpnorm_Regularization.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-5_Cooperative_Mag_Inversion_CMI.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-6_Case_Study.aux)
-(C:\Users\dominiquef.MIRAGEOSCIENCE\Dropbox\UBC\ResearchDomFournier\Thesis\Chap
-7_Conclusion.aux))
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap2_Forwar
+d.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap3_Invers
+e.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap4_Mixed_
+Lpnorm_Regularization.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap5_Cooper
+ative_Mag_Inversion_CMI.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap6_Case_S
+tudy.aux)
+(C:\Users\dominiquef.MIRAGEOSCIENCE\Documents\GIT\Papers\MScThesis\Chap7_Conclu
+sion.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 426.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 426.
 Package rerunfilecheck Info: File `Thesis_Driver.out' has not changed.
@@ -1757,12 +1746,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 426.
  ) 
 Here is how much of TeX's memory you used:
  12279 strings out of 493921
- 193397 string characters out of 3147222
- 296483 words of memory out of 3000000
+ 192717 string characters out of 3147222
+ 296484 words of memory out of 3000000
  14711 multiletter control sequences out of 15000+200000
  68989 words of font info for 148 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 36i,25n,42p,1228b,622s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,25n,42p,1220b,622s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fon
@@ -1775,7 +1764,7 @@ ogram Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a
 .pfb>
-Output written on Thesis_Driver.pdf (155 pages, 23255112 bytes).
+Output written on Thesis_Driver.pdf (155 pages, 23254713 bytes).
 PDF statistics:
  2408 PDF objects out of 2487 (max. 8388607)
  491 named destinations out of 1000 (max. 500000)
